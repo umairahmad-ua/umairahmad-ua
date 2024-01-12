@@ -1,4 +1,4 @@
-As a data scientist with over 3 years of experience, I believe that data science has the power to make a positive impact on the world, I am always on the lookout for new challenges and opportunities to use my skills to make a difference. Whether it's finding ways to improve healthcare outcomes, transform the supply chain, or increase profitability, I am driven to use my knowledge to create real-world solutions.
+As a Sr Machine Learning Engineer with over 4 years of experience, I believe that AI/ML, data science has the power to make a positive impact on the world, I am always on the lookout for new challenges and opportunities to use my skills to make a difference. Whether it's finding ways to improve healthcare outcomes, transform the supply chain, or increase profitability, I am driven to use my knowledge to create real-world solutions.
 
 I am dedicated to staying current with the latest trends, regularly attending industry conferences, workshops, and webinars to stay informed about new developments and best practices in data science. I believe that continuous learning is crucial to staying ahead in the field and delivering the best results for my company.
 
